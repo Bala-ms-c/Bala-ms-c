@@ -20,8 +20,7 @@ Welcome to my GitHub profile! I’m an **Aspiring Data Scientist** with experien
 ---
 
 ## 📈 **GitHub Stats**
-![Bala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bala-ms-c&show_icons=true&theme=radical)
-![GitHub Stars](https://img.shields.io/github/stars/Bala-ms-c?style=social)
+![Bala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bala-ms-c&show_icons=true&theme=radical&cache_seconds=1800)
 
 ---
 
