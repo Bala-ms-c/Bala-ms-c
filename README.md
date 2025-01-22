@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I’m an **Aspiring Data Scientist** with experien
 - AWS Certified Machine Learning - Specialty
 - Microsoft Certified: Power BI Data Analyst Associate
 - Microsoft Azure Data Fundamentals Certified
+- Microsoft Azure Fundamentals Certified
 
 ---
 
