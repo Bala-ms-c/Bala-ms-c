@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I’m an **Aspiring Data Scientist** with experien
 
 ## 📈 **GitHub Stats**
 ![Bala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bala-ms-c&show_icons=true&theme=radical)
-![Bala's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bala-ms-c&theme=radical)  
-![Bala's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bala-ms-c&theme=react-dark&hide_border=true)
+![GitHub Stars](https://img.shields.io/github/stars/Bala-ms-c?style=social)
+
 ---
 
 ## 🛠️ **Languages & Tools**
