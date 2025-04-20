@@ -6,7 +6,7 @@ Data Analyst with a passion for transforming raw data into meaningful business i
 
 ## 🧠 **Skills & Expertise**
 - **Data Analysis** | **Data Visualization**
-- **Data Science** | **Machine Learning** |
+- **Data Science** | **Machine Learning** 
 - **Python** | **SQL**
 
 
