@@ -1,13 +1,14 @@
 # 👋 Hi, I'm **Bala Subramanian C**!  
 
-Welcome to my GitHub profile! I’m an **Aspiring Data Scientist** with experience in **Machine Learning**, **Deep Learning**, and **Data Analysis**. I'm passionate about building data-driven solutions and diving deep into artificial intelligence.
+Data Analyst with a passion for transforming raw data into meaningful business insights through analysis, reporting, and interactive dashboards. Skilled in SQL, Power BI, and Python, with additional interest in machine learning and AI projects.
 
 ---
 
 ## 🧠 **Skills & Expertise**
-- **Data Science** | **Machine Learning** | **Deep Learning**
-- **Python** | **SQL**
 - **Data Analysis** | **Data Visualization**
+- **Data Science** | **Machine Learning** |
+- **Python** | **SQL**
+
 
 ---
 
