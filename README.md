@@ -41,5 +41,5 @@
 
 ---
 
-> 📬 Feel free to explore my repositories, clone projects, or connect with me on [LinkedIn](https://www.linkedin.com/in/bala-subramanian-c/)!
+> 📬 Feel free to explore my repositories, clone projects, or connect with me on [LinkedIn](https://www.linkedin.com/in/bala-subramanian-c-0359a1188/)!
 
