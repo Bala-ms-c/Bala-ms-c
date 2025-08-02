@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Bala Subramanian C**
 
-🎯 **QA Automation Engineer** with 3.9 years of experience in testing web and API applications across insurance and travel domains. I specialize in building automation frameworks using **Selenium, Java, TestNG, and Rest Assured**, backed by Agile best practices. Bonus: I’ve also explored AI/ML to bring smart automation and predictive insights into the QA process.
+🎯 **QA Automation Engineer** with 3.9 years of experience in testing web and API applications across insurance and travel domains. I specialize in building automation frameworks using **Selenium, Java, TestNG, and Rest Assured**, backed by Agile best practices. I’ve also explored AI/ML to bring smart automation and predictive insights into the QA process.
 
 ---
 
