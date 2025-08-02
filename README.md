@@ -48,9 +48,4 @@
 
 ---
 
-## 📈 GitHub Stats
-![Bala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bala-ms-c&show_icons=true&theme=radical&cache_seconds=1800)
-
----
-
 > 📬 Feel free to explore my repos, fork my frameworks, or connect on [LinkedIn](https://www.linkedin.com/in/bala-subramanian-c-0359a1188/). I'm open to QA Automation roles that embrace innovation through AI 🚀
