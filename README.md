@@ -4,7 +4,7 @@
 
 ---
 
-## 🧪 What I Do Best (QA Automation Focus)
+## 🧪 What I Do Best
 - Automate UI workflows using Selenium WebDriver + TestNG + POM
 - Validate REST APIs using Postman & Rest Assured (Java)
 - Integrate automated test suites into CI/CD pipelines (Azure DevOps, GitHub Actions, Jenkins)
