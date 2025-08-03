@@ -41,10 +41,13 @@
 ---
 
 ## 📜 Certifications
-- 🧪 Masterclass: Software Testing with JIRA & Agile – QA Lead Path  
-- ☁️ Microsoft Azure Fundamentals Certified  
-- 🤖 AWS Certified Machine Learning – Specialty  
-- 🎓 Executive PG Certification in Data Science & AI (IIT Roorkee – Intellipaat)
+- Masterclass: Software Testing with JIRA & Agile – QA Lead Path
+- Azure Devops Crash Course -Build CI/CD release pipelines
+- Microsoft Certified: Azure Data Fundamentals
+- Microsoft Azure Fundamentals Certified
+- AWS Certified Cloud Practitioner
+- AWS Certified Machine Learning – Specialty  
+- Executive PG Certification in Data Science & AI (IIT Roorkee – Intellipaat)
 
 ---
 
