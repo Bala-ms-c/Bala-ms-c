@@ -48,6 +48,7 @@
 - AWS Certified Cloud Practitioner
 - AWS Certified Machine Learning – Specialty  
 - Executive PG Certification in Data Science & AI (IIT Roorkee – Intellipaat)
+- Generative AI with Large Language Models
 
 ---
 
